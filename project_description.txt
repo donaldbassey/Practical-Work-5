@@ -1,0 +1,6 @@
+GitHub Practical Work #5
+Student: [Your Name]
+Date: [Today's Date]
+
+This project demonstrates Git and GitHub skills.
+Files included: text, image, document, code, PDF.
